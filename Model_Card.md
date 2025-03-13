@@ -20,7 +20,7 @@ Explore inventory data and determine how to best optimize operational levels.
 ## Training Data
 
 ## Quantitative Analysis
-
+- We used **root-mean-squared error** and **mean absolute error** to evaluate our model performance. This measures the error in predictions based on the mean and the median.
 
 ### Ethical Considerations
 - This model uses no real data and there is no possibility of a HIPPA violation. There are not even real store names. The biggest risk to humans would be potential job loss through using this model and getting incorrect predictions on how to adjust inventory. 
